@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@peaster"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/peaster/colorfy",
+  "domain": "colorfy",
+  "name": "Colorfy",
+  "requirements": []
+}
